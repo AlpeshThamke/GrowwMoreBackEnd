@@ -1,0 +1,2 @@
+# GrowwMore
+A trading app
